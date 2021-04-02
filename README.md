@@ -2,6 +2,6 @@
 
 I'm an archivist from São Paulo, Brazil, currently living in Lommel, Belgium.
 
-### <img src= "https://media.giphy.com/media/uipE0OBD280aKyA9Mh/giphy.gif" width= "30" How to reach me? 
+### <img src= "https://media.giphy.com/media/uipE0OBD280aKyA9Mh/giphy.gif" width= "30"> How to reach me? 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rayanejs/)
 
