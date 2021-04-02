@@ -1,2 +1,4 @@
-### Olá, I'm Rayane! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Olá, I'm Rayane! ![alt text]("https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30")
+
+
 
