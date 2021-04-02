@@ -2,7 +2,7 @@
 
 I'm an archivist from São Paulo, Brazil, currently living in Lommel, Belgium.
 
-***
+-------
 
 ### How to reach me? <img src= "https://media.giphy.com/media/26orGHvmJbrQ2kZ2Yk/giphy.gif" width="60">
 
