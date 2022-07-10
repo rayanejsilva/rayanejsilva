@@ -21,6 +21,6 @@ During this course I gained a lot of knowledge on:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rayanejs/)
 
-:house: [Homepage](https://www.linkedin.com/in/rayanejs/)
+:house: [Homepage](https://rayanejsilva.be/)
 
 
