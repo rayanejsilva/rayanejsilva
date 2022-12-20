@@ -8,7 +8,7 @@ With keen interest in Film ​History and​ ​Arts, I am a person​ passionat
 
 ### My Coding Journey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
-In 2021, I reviewed my career prospects and decided to participate in the Full Stack Development Course of [HackYourFutureBelgium](https://hackyourfuture.be/), where I recently graduated.
+In 2021, I reviewed my career prospects and decided to participate in the Full Stack Development Course of [HackYourFutureBelgium](https://hackyourfuture.be/).
 
 During this course I gained a lot of knowledge on:
 
